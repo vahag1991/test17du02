@@ -17,8 +17,6 @@
         <p>je ne vous met pas mon num, donc il faut le deviner</p>
     </main>
 
-    <footer>
-    <p>© Copyright - 2025</p>
-    </footer>
+    <?php include ('inc/footer.php'); ?>
 </body>
 </html>

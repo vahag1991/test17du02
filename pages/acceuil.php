@@ -18,8 +18,6 @@
               mollitia repudiandae quidem quod dolor dolorum delectus
                eligendi quo accusamus. Autem.</p>
     </main>
-    <footer>
-    <p>© Copyright - 2025</p>
-    </footer>
+    <?php include ('inc/footer.php'); ?>
 </body>
 </html>
