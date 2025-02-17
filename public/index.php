@@ -13,5 +13,5 @@ if (isset ($_GET['page'])){
         break;
     }
 }else{
-    include ('../page/acceuil.php')
+    include ('../pages/acceuil.php');
 }
